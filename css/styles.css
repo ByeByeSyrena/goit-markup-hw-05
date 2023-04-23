@@ -528,9 +528,13 @@ body {
 
 .bottom-fl {
   display: flex;
-  gap: 120px;
   align-items: baseline;
 }
+
+.bottom-fl-item {
+  margin-right: 120px;
+}
+
 .logo-footer {
   margin-right: 0;
   display: inline-block;
